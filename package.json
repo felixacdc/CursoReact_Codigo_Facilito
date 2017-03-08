@@ -1,0 +1,22 @@
+{
+  "name": "reactfacilito",
+  "version": "1.0.0",
+  "description": "Curso de React.js en Codigo Facilito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixacdc/CursoReact_Codigo_Facilito.git"
+  },
+  "author": "Félix Méndez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixacdc/CursoReact_Codigo_Facilito/issues"
+  },
+  "homepage": "https://github.com/felixacdc/CursoReact_Codigo_Facilito#readme",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
